@@ -36,6 +36,9 @@ The launch files of the GPS sensors have to be configured in order for them to u
 
 The bash script in this repository can be downloaded an run from the home directory of the user. 
 
+cd EEAV_AV_Niro
+catkin_make
+
 Execute the bash file using, 
 
 ./av_drivers.bash
